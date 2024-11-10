@@ -11,7 +11,7 @@
 | C言語能力認定試験2級 | - |
 | ORACLE MASTER Bronze Oracle Database 12c | - |
 | SALESFORCE CERTIFIED ADMINISTRATOR | - |
-| AWS Certified Cloud Practitioner() | 2024年02月 |
+| AWS Certified Cloud Practitioner | 2024年02月 |
 | [LinuCレベル1](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2024年10月 |
 
 <!--
