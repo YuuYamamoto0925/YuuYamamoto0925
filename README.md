@@ -3,7 +3,7 @@
 ## 🏡 出身地
 - 日本-大阪府
 
-## 📜 取得資格
+## 📜 保有資格
 | 資格名 | 取得日 |
 | ------ | ------ |
 | Java SE 7/8 Bronze | - |
@@ -13,6 +13,10 @@
 | SALESFORCE CERTIFIED ADMINISTRATOR | - |
 | AWS Certified Cloud Practitioner | 2024年02月 |
 | [LinuCレベル1](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2024年10月 |
+
+## 💻得意な技術
+- なにもない
+
 
 <!--
 **YuuYamamoto0925/YuuYamamoto0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
