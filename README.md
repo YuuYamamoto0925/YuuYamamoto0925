@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## 📜 資格
+| 資格名 | 取得日 | 説明 |
+| ------ | ------ | ---- |
+| 資格A | 2023年1月 | 資格Aの説明 |
+| 資格B | 2022年5月 | 資格Bの説明 |
+| 資格C | 2021年10月 | 資格Cの説明 |
+
 <!--
 **YuuYamamoto0925/YuuYamamoto0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
