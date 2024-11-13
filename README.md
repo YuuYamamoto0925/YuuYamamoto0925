@@ -14,8 +14,11 @@
 | AWS Certified Cloud Practitioner | 2024年02月 |
 | [LinuCレベル1](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2024年10月 |
 
-## 💻伸ばしたい技術
+## 🔧伸ばしたい技術
 - 全般
+- 
+## 💻得意なこと
+- マウスを使わずノートパソコン操作できる
 
 
 <!--
