@@ -14,6 +14,7 @@
 | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/50a1135a-ccab-48c6-a537-6426cdc6c0cf/public_url) | 2024年02月 |
 | [LinuCレベル1](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2024年10月 |
 | [AWS Certified AI Practitioner](https://www.credly.com/badges/09b29620-e08b-4625-880f-414808f88533) | 2025年02月 |
+| ORACLE MASTER Silver SQL | 2025年06月 |
 
 ## 💻伸ばしたい技術
 - 全般
