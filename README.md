@@ -8,7 +8,7 @@
 | ------ | ------ |
 | Java SE 7/8 Bronze | 2015年07月 |
 | Java SE 7 Programmer I | 2015年08月 |
-| C言語能力認定試験2級 | - |
+| C言語能力認定試験2級 | 2016年07月 |
 | ORACLE MASTER Bronze Oracle Database 12c | 2017年02月 |
 | [SALESFORCE CERTIFIED ADMINISTRATOR](https://www.salesforce.com/trailblazer/sugoroku4932) | 2020年12月 |
 | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/50a1135a-ccab-48c6-a537-6426cdc6c0cf/public_url) | 2024年02月 |
@@ -17,10 +17,11 @@
 | ORACLE MASTER Silver SQL | 2025年06月 |
 
 ## 💻伸ばしたい技術
-- 全般
+- 知らないこと全般
 
 ## ⚽得意なこと
-- マウスを使わずノートパソコンを操作できる
+- マウスなしでノートパソコンを操作すること
+- キャパオーバーでも冷静でいること
 
 
 <!--
