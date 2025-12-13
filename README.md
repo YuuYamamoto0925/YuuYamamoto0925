@@ -16,13 +16,11 @@
 | [AWS Certified AI Practitioner](https://www.credly.com/badges/09b29620-e08b-4625-880f-414808f88533) | 2025年02月 |
 | ORACLE MASTER Silver SQL | 2025年06月 |
 
-## 💻伸ばしたい技術
-- 知らないこと全般
+## 💻伸ばしたいこと
+- インフラ領域とメンタルヘルス領域😿
 
-## ⚽得意なこと
-- マウスなしでノートパソコンを操作すること
-- キャパオーバーでも冷静でいること
-
+## 📅今後について
+- 2026年以降のお仕事を探しています😿
 
 <!--
 **YuuYamamoto0925/YuuYamamoto0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
