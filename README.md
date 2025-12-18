@@ -1,7 +1,7 @@
-## こんにちわ
+## HELLO WORLD
 
 ## 🏡 出身地
-- 日本-大阪府
+- 日本-大阪府-堺市中区
 
 ## 📜 保有資格
 | 資格名 | 取得日 |
@@ -17,10 +17,11 @@
 | ORACLE MASTER Silver SQL | 2025年06月 |
 
 ## 💻伸ばしたいこと
-- インフラ領域とメンタルヘルス領域😿
+- インフラ領域
+- メンタルヘルス領域
 
 ## 📅今後について
-- 2026年以降のお仕事を探しています😿
+- 2025年末にて退職、2026年素晴らしいキャリアを歩めるお仕事を探してます..!!
 
 <!--
 **YuuYamamoto0925/YuuYamamoto0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
