@@ -21,7 +21,7 @@
 - メンタルヘルス領域
 
 ## 📅今後について
-- 2025年末にて退職、2026年素晴らしいキャリアを歩めるお仕事を探してます..!!
+- 2025年末にて退職、2026年素晴らしいキャリアを築いていける職場を探してます..!!
 
 <!--
 **YuuYamamoto0925/YuuYamamoto0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
