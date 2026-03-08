@@ -15,6 +15,7 @@
 | [LinuCレベル1](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2024年10月 |
 | [AWS Certified AI Practitioner](https://www.credly.com/badges/09b29620-e08b-4625-880f-414808f88533) | 2025年02月 |
 | ORACLE MASTER Silver SQL | 2025年06月 |
+| [LinuC201] | 2026年02月 |
 
 ## 💻伸ばしたいこと
 - インフラ領域
