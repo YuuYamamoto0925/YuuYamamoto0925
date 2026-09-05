@@ -29,7 +29,7 @@
 | [AWS Certified AI Practitioner](https://www.credly.com/badges/09b29620-e08b-4625-880f-414808f88533) | 2025年02月 |
 | [SALESFORCE CERTIFIED ADMINISTRATOR](https://www.salesforce.com/trailblazer/sugoroku4932) | 2020年12月 |
 
-## 💻 伸ばしたいこと
+## 💻 技術領域伸ばしたいこと
 - インフラ・クラウド領域
 - AI・生成AI領域
 - メンタルヘルス領域
@@ -37,19 +37,3 @@
 ## 📅 現在について
 - 2026年3月よりエンジニアとして就業中
 - インフラ領域を中心にスキルアップ中
-
-
-<!--
-**YuuYamamoto0925/YuuYamamoto0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
