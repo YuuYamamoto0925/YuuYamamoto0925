@@ -16,11 +16,13 @@
 ### 🐧 インフラ系資格
 | 資格名 | 取得日 |
 | ------ | ------ |
-| [LinuCレベル1](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2024年10月 |
-| [LinuCレベル2](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2026年05月 |
-| [LinuCレベル3](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2026年08月 |
+| LinuCレベル1 | 2024年10月 |
+| LinuCレベル2 | 2026年05月 |
 | [ORACLE MASTER Bronze Oracle Database 12c](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B228256FE4164AA6A99549FEFB3290F751D2036270FF9C05D2FBDE1EEDAA8F0F) | 2017年02月 |
 | [ORACLE MASTER Silver SQL 2019](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E1C52580AEC8D551F787186677C6ECFB91FDEA67294257C386AFD5E873FB709B) | 2025年06月 |
+<!-- | [LinuCレベル1](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2024年10月 |-->
+<!-- | [LinuCレベル2](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2026年05月 |-->
+<!-- | [LinuCレベル3](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2026年08月 |-->
 
 ### ☁️ クラウド・AI資格
 | 資格名 | 取得日 |
