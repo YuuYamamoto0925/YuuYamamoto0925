@@ -16,19 +16,18 @@
 ### 🐧 インフラ系資格
 | 資格名 | 取得日 |
 | ------ | ------ |
-| LinuCレベル1 | 2024年10月 |
-| LinuCレベル2 | 2026年05月 |
+| [LinuCレベル1](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2024年10月 |
+| [LinuCレベル2](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2026年05月 |
+| [LinuCレベル3 304](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2026年08月 |
 | [ORACLE MASTER Bronze Oracle Database 12c](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B228256FE4164AA6A99549FEFB3290F751D2036270FF9C05D2FBDE1EEDAA8F0F) | 2017年02月 |
 | [ORACLE MASTER Silver SQL 2019](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E1C52580AEC8D551F787186677C6ECFB91FDEA67294257C386AFD5E873FB709B) | 2025年06月 |
-<!-- | [LinuCレベル1](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2024年10月 |-->
-<!-- | [LinuCレベル2](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2026年05月 |-->
-<!-- | [LinuCレベル3](https://ma.educo-j.or.jp/l/EID900048521/nnzkef8q42) | 2026年08月 |-->
 
 ### ☁️ クラウド・AI資格
 | 資格名 | 取得日 |
 | ------ | ------ |
 | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/50a1135a-ccab-48c6-a537-6426cdc6c0cf/public_url) | 2024年02月 |
 | [AWS Certified AI Practitioner](https://www.credly.com/badges/09b29620-e08b-4625-880f-414808f88533) | 2025年02月 |
+| [AWS Certified Solutions Architect - Associate] | 2026年12月 見込み|
 | [SALESFORCE CERTIFIED ADMINISTRATOR](https://www.salesforce.com/trailblazer/sugoroku4932) | 2020年12月 |
 
 ## 💻 技術領域伸ばしたいこと
