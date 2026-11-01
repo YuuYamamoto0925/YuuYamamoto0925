@@ -25,7 +25,7 @@
 ### ☁️ クラウド・AI資格
 | 資格名 | 取得日 |
 | ------ | ------ |
-| [AWS Certified Cloud Practitioner](https://www.credly.com/badges/50a1135a-ccab-48c6-a537-6426cdc6c0cf/public_url) | 2024年02月 |
+| [AWS Certified Cloud Practitioner](https://www.credly.com/badges/50a1135a-ccab-48c6-a537-6426cdc6c0cf) | 2024年02月 |
 | [AWS Certified AI Practitioner](https://www.credly.com/badges/09b29620-e08b-4625-880f-414808f88533) | 2025年02月 |
 | AWS Certified Solutions Architect - Associate | 2026年12月 見込み|
 | [SALESFORCE CERTIFIED ADMINISTRATOR](https://www.salesforce.com/trailblazer/sugoroku4932) | 2020年12月 |
